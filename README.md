@@ -1,5 +1,5 @@
 # 💫 About Me:
-Java developer from SPB, ITMO student (2nd year)
+Java developer from SPB, ITMO student (3rd year)
 
 
 ## 🌐 Socials:
